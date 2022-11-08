@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "hakob",
+      "email": "hakob@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "piter",
+      "email": "piter@gmail.com",
+      "password": "piter123",
+      "id": 2
+    },
+    {
+      "name": "hghghg",
+      "email": "admin@unto.rent",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "Bruse",
+      "email": "bruce@unto.rent",
+      "password": "br123",
+      "id": 4
+    },
+    {
+      "name": "test",
+      "email": "admin@unto.rent",
+      "password": "12345",
+      "id": 5
+    }
+  ]
+}
