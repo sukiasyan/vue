@@ -12,5 +12,25 @@
       "password": "test123",
       "id": 2
     }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact": 111111,
+      "address": "West Cost 50"
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "contact": 33333,
+      "address": "Gougon street 50"
+    },
+    {
+      "id": 3,
+      "name": "Burger King",
+      "contact": 44444,
+      "address": "Cost Yard 34"
+    }
   ]
 }
